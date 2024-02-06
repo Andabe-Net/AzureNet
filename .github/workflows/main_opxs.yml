@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Opxs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA88FD21851D424EAEA91C8439E10D5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AC7E047DA064386B85D3F3B77BDA435 }}
           package: .
